@@ -1,2 +1,2 @@
 # meus_personagens
-Criação de Personagens para Livros
+Crie Persoangens para Seu Livro e Baixe a Ficha em PDF
